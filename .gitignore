@@ -1,0 +1,10 @@
+*.txt
+*.data
+*.csv
+*.newick
+*.tre
+*.nex
+arbolconsenso
+data/
+images/
+*.png
